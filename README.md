@@ -8,6 +8,10 @@ https://public-sans.digital.gov/
 
 https://www.google.com/get/noto/
 
+## Open Sans
+
+https://fonts.google.com/specimen/Open+Sans
+
 ## IBM Plex
 
 https://www.ibm.com/plex/
