@@ -8,6 +8,10 @@ https://public-sans.digital.gov/
 
 https://www.google.com/get/noto/
 
+## Literata
+
+https://www.type-together.com/literata-2019-update
+
 ## Open Sans
 
 https://fonts.google.com/specimen/Open+Sans
