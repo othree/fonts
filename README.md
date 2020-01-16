@@ -46,6 +46,10 @@ https://creativecommons.org/about/downloads/
 
 https://github.com/tonsky/FiraCode
 
+## Source Code Pro
+
+https://adobe-fonts.github.io/source-code-pro/
+
 ## Cascadia Code
 
 https://github.com/microsoft/cascadia-code
