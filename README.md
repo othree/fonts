@@ -42,6 +42,10 @@ https://creativecommons.org/about/downloads/
 
 # Coding Fonts
 
+## Cascadia Code
+
+https://github.com/microsoft/cascadia-code
+
 ## JetBrains Mono
 
 https://www.jetbrains.com/lp/mono/
