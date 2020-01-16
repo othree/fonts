@@ -39,3 +39,9 @@ https://nationalparktypeface.com/
 ## CC Accidenz Commons
 
 https://creativecommons.org/about/downloads/
+
+# Coding Fonts
+
+## JetBrains Mono
+
+https://www.jetbrains.com/lp/mono/
