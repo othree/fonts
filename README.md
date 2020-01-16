@@ -42,6 +42,10 @@ https://creativecommons.org/about/downloads/
 
 # Coding Fonts
 
+## Fira Code
+
+https://github.com/tonsky/FiraCode
+
 ## Cascadia Code
 
 https://github.com/microsoft/cascadia-code
