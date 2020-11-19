@@ -57,3 +57,10 @@ https://github.com/microsoft/cascadia-code
 ## JetBrains Mono
 
 https://www.jetbrains.com/lp/mono/
+
+# UI Fonts
+
+## NorumIpnum
+
+Intro: https://www.ideo.com/blog/use-these-dummy-numbers-when-prototyping-with-data
+Repo: https://www.ideo.com/blog/use-these-dummy-numbers-when-prototyping-with-data
