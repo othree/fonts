@@ -63,4 +63,4 @@ https://www.jetbrains.com/lp/mono/
 ## NorumIpnum
 
 Intro: https://www.ideo.com/blog/use-these-dummy-numbers-when-prototyping-with-data  
-Repo: https://www.ideo.com/blog/use-these-dummy-numbers-when-prototyping-with-data
+Repo: https://github.com/ideo/NorumIpnum
