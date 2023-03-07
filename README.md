@@ -72,3 +72,7 @@ Repo: https://github.com/ideo/NorumIpnum
 4px width font
 
 https://github.com/romeovs/creep
+
+## Oradano Mincho (Oradano明朝フォント)
+
+https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/
