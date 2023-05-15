@@ -20,6 +20,10 @@ https://fonts.google.com/specimen/Open+Sans
 
 https://www.ibm.com/plex/
 
+## Intel One Mono
+
+https://github.com/intel/intel-one-mono
+
 ## Red Hat Display/Text
 
 https://www.redhat.com/en/about/brand/standards/typography
