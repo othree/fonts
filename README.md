@@ -62,6 +62,10 @@ https://github.com/microsoft/cascadia-code
 
 https://www.jetbrains.com/lp/mono/
 
+## Geist by Vercel
+
+https://vercel.com/font
+
 # UI Fonts
 
 ## NorumIpnum
@@ -77,7 +81,7 @@ Repo: https://github.com/ideo/NorumIpnum
 
 https://github.com/romeovs/creep
 
-## Oradano Mincho (Oradano明朝フォント)
+## Oradano Mincho (Oradano 明朝フォント)
 
 https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/
 
@@ -85,3 +89,8 @@ https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/
 
 https://github.com/fontworks-fonts/
 
+# TW
+
+## Chiaki Taiwan Railway Font
+
+https://github.com/akira02/Chiaki-Taiwan-Railway-font
