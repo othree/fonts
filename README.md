@@ -66,6 +66,10 @@ https://www.jetbrains.com/lp/mono/
 
 https://vercel.com/font
 
+## Monaspace
+
+https://monaspace.githubnext.com/
+
 # UI Fonts
 
 ## NorumIpnum
